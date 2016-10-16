@@ -1,5 +1,5 @@
 baseurl = "https://adelehedrick.github.io/"
-title = "Adele M. Hedrick"
+title = "Syntactic Sugar"
 theme = "hugo-universal-theme"
 relativeURLs = true
 languageCode = "en-us"
@@ -17,7 +17,8 @@ paginate = 10
     # Formspree.io email
     email = "adele@hedrick.ca"
 
-    about_us = "<p>I'm a very enthusiastic programmer, happy to be a graduate student at UOIT.</p>"
+    about_us = "<p>Masters of Computer Science Candidate, Software Developer and Aspiring Data Scientist.</p>"
+		profile_pic = "img/profile_pic.jpeg"
     copyright = "Copyright (c) 2016, Adele Hedrick; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
@@ -75,11 +76,11 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Where are the lectures?"
-    subtitle = "Head on back to Dr. Ken Pu's website to view lecture material."
-    link_url = "http://db.science.uoit.ca/courses/programming-languages/"
-    link_text = "Course Website"
+    icon = "fa fa-linkedin"
+    title = "Connect with me on LinkedIn"
+    subtitle = "I keep a very update profile and enjoy networking"
+    link_url = "https://www.linkedin.com/in/adelehedrick"
+    link_text = "Visit My Profile"
 
 [params.clients]
     enable = false

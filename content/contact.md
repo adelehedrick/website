@@ -3,8 +3,12 @@ title = "Contact"
 id = "contact"
 +++
 
-# I am here to help you
+# Feel free to drop me a line
 
-For in-person help, come to my office hour currently scheduled for Tuesdays at 10am in the TA office (UA4029). 
+<div class="icon-sm"><i class="fa fa-linkedin"></i></div>[adelehedrick](https://ca.linkedin.com/in/adelehedrick)
 
-Other than that feel free to email me, post to the Google Community for this course, or message me through Google Hangouts. When using the Google Community or Hangouts make sure you are logged in with your UOIT.net account! 
+<div class="icon-sm"><i class="fa fa-github-alt"></i></div>[adelehedrick](https://github.com/adelehedrick)
+
+
+<div class="icon-sm"><i class="fa fa-envelope"></i></div>[adele@syntacticsugar.ca](mailto:adele@syntacticsugar.ca)
+

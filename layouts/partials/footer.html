@@ -7,6 +7,8 @@
 
             {{ .Site.Params.about_us | safeHTML }}
 
+            <img src="{{ .Site.BaseURL}}{{ .Site.Params.profile_pic | safeHTML }}" alt="profile picture" />
+
             <hr class="hidden-md hidden-lg hidden-sm">
 
         </div>
