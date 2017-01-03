@@ -4,7 +4,7 @@ theme = "hugo-universal-theme"
 relativeURLs = true
 languageCode = "en-us"
 disqusShortname = "adelehedrick-github-io"
-googleAnalytics = ""
+googleAnalytics = "UA-89800406-1"
 pygmentsStyle = "tango"
 
 # Define the number of posts per page
