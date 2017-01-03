@@ -3,7 +3,7 @@ title = "Syntactic Sugar"
 theme = "hugo-universal-theme"
 relativeURLs = true
 languageCode = "en-us"
-disqusShortname = "adele-hedrick-csci-3055u"
+disqusShortname = "adelehedrick-github-io"
 googleAnalytics = ""
 pygmentsStyle = "tango"
 
@@ -33,8 +33,8 @@ paginate = 10
     weight = 1
 
 [[params.menu]]
-    name = "Clojure"
-    url  = "/clojure/"
+    name = "Compilers"
+    url  = "/compilers/"
     weight = 2
 
 [[params.menu]]
@@ -61,7 +61,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.

@@ -2,6 +2,7 @@
 title = "Learn Clojure"
 date = "2016-09-18"
 menu = "main"
+draft = true
 +++
 
 ## Tutorials
