@@ -10,13 +10,8 @@ Mondays from 11am to 12pm in the shared TA office UA4029, but you are better off
 
 ## Tutorials
 
-Material and blog posts, that I create, which directly relate to the course, will be listed here.
-    
-    
-## Bonus
-
-Supplemental material that I create which may or may not be useful to you, will be listed here.
+* [Discovering the Antlr]({{< ref "blog/compilers/discovering-the-antlr.md" >}})
 
 ## Resources
 
-Any helpful resources that I find will be posted here.
+* [Antlr](http://www.antlr.org/)
